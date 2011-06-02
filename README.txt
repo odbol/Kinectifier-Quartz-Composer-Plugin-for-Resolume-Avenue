@@ -1,4 +1,4 @@
-Kinectifier
+Kinectifier Quartz Composer Plugin for Resolume Avenue
 Copyright 2011 Tyler Freeman
 http://odbol.com
 
